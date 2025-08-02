@@ -11,8 +11,8 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 
 | Project Name                | Level      | Key Features                                   | Link                |
 |-----------------------------|------------|-----------------------------------------------|---------------------|
-| Simple Conversational agent    | Beginner   | Context-aware conversations, history management           | [View](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_conversational_agent.ipynb) |
-|     |  |                    |  |
+| Simple Conversational Agent    | Beginner   | Context-aware conversations, history management           | [View](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_conversational_agent.ipynb) |
+| Simple Question Answering Agent    | Beginner | Query understanding, concise answers   | [View](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_question_answering_agent.ipynb) |
 |    |    |      |  |
 
 > **Note:** This table will be continuously updated as new projects are added.

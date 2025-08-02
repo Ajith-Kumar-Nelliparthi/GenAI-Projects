@@ -1,0 +1,27 @@
+# GenAI Projects
+
+Welcome to the **GenAI Projects** repository! This collection is dedicated to showcasing a wide range of generative AI projects, ranging from beginner-friendly examples to advanced implementations. The goal is to provide a structured and evolving resource for learning, experimenting, and mastering generative AI techniques.
+
+## Table of Contents
+
+| Project Name                | Level      | Key Features                                   | Link                |
+|-----------------------------|------------|-----------------------------------------------|---------------------|
+| Simple Conversational agent    | Beginner   | Context-aware conversations, history management           | [View](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_conversational_agent.ipynb) |
+|     |  |                    |  |
+|    |    |      |  |
+
+> **Note:** This table will be continuously updated as new projects are added.
+
+## Getting Started
+
+1. Browse the table above to find a project of interest.
+2. Follow the instructions in each project folder to set up and run the code.
+3. Contributions and suggestions are welcome!
+
+## Contributing
+
+Feel free to open issues or submit pull requests to add new projects, improve documentation, or suggest enhancements.
+
+---
+
+Happy learning and building with Generative AI!

@@ -2,6 +2,9 @@
 
 Welcome to the **GenAI Projects** repository! This collection is dedicated to showcasing a wide range of generative AI projects, ranging from beginner-friendly examples to advanced implementations. The goal is to provide a structured and evolving resource for learning, experimenting, and mastering generative AI techniques.
 
+Follow me on Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelliparthi-ajith-233803262)\
+Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ajith532542840)
+
 ## Table of Contents
 
 | Project Name                | Level      | Key Features                                   | Link                |

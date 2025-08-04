@@ -9,11 +9,11 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 
 ## Table of Contents
 
-|S.NO | Project Name                | Level      | Key Features                                   | Link                |
+|S.NO| Project Name                | Level      | Key Features                                   | Link                |
 |---- |-----------------------------|------------|-----------------------------------------------|---------------------|
-|1 | Simple Conversational Agent    | Beginner   | Context-aware conversations, history management           | [View](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_conversational_agent.ipynb) |
-|2 | Simple Question Answering Agent    | Beginner | Query understanding, concise answers   | [View](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_question_answering_agent.ipynb) |
-|3 |    |    |      |  |
+|1| Simple Conversational Agent    | Beginner   | Context-aware conversations, history management           | [View](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_conversational_agent.ipynb) |
+|2| Simple Question Answering Agent    | Beginner | Query understanding, concise answers   | [View](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_question_answering_agent.ipynb) |
+|3| Data Analysis Simple Agent   | Beginner   | Dataset interpretation, natural language queries     | [view](Dataset interpretation, natural language queries) |
 
 > **Note:** This table will be continuously updated as new projects are added.
 

@@ -15,6 +15,7 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 |2| Simple Question Answering Agent    | Beginner | Query understanding, concise answers   | [View](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_question_answering_agent.ipynb) |
 |3| Data Analysis Simple Agent   | Beginner   | Dataset interpretation, natural language queries     | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/Data_Analysis_Simple_Agent.ipynb) |
 |4| Introduction to langgraph    | Framework | Modular AI workflows, state management  | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/langgraph_tutorial.ipynb) |
+|5| Logistic Regression From Scratch  | ML | Implementation of LR  | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/tree/main/ai_agents/logistic_regression_from_scratch) |
 
 > **Note:** This table will be continuously updated as new projects are added.
 

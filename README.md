@@ -38,6 +38,9 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 |25|  NYC Current Price Prediction | ML | The project is a machine learning prediction service that predicts the daily electricity demand in megawatthours in New York, USA. | [view](https://github.com/Ajith-Kumar-Nelliparthi/Machine-Learning-Projects/tree/main/NYC-CURRENT-PRICE-PREDICTION) |
 |26|  Polycystic Ovary Syndrome (PCOS) Classification | ML | The PCOS Prediction project aims to provide a machine learning model that predicts the likelihood of Polycystic Ovary Syndrome (PCOS) based on various user inputs. | [view](https://github.com/Ajith-Kumar-Nelliparthi/Machine-Learning-Projects/tree/main/PCOS_Prediction) |
 |27|  Stroke Prediction | ML | This project aims to predict the likelihood of a stroke based on various health parameters using machine learning techniques. | [view](https://github.com/Ajith-Kumar-Nelliparthi/Machine-Learning-Projects/tree/main/Stroke_Prediction) |
+|28|  AI Personal Email Assistant | Intermediate | Build an AI-powered personal email assistant capable of reading a user's Gmail/IMAP inbox, understanding email context, storing emails in a database, and interacting with external tools (web search, Slack, calendar) to assist with email actions. | [view](https://github.com/Ajith-Kumar-Nelliparthi/ajith-kumar-nelliparthi-wasserstoff-AiInternTask.git) |
+|29|  Startup Health Scoring Model | Intermediate | This project implements a scoring model for 100 fictional startups based on key business indicators. | [view](https://github.com/Ajith-Kumar-Nelliparthi/scaledux_assignment.git) |
+|30| Real Time Object Detection Using YOLO | Intermediate | This project implements real-time object detection using the YOLO (You Only Look Once) algorithm. | [view](https://github.com/Ajith-Kumar-Nelliparthi/Real_Time_Object_Detection_Using_Yolo.git)
 > **Note:** This table will be continuously updated as new projects are added.
 
 ## Getting Started

@@ -26,6 +26,7 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 |13|  RAG Application using Langchain, OpenAI, FAISS | Intermediate | LLM, VectorDatabase, RAG, Langchain | [view](https://github.com/Ajith-Kumar-Nelliparthi/Rag-Application-using-OpenAI-Langchain-FAISS.git) |
 |14|  Web Scraper To MySQL | Beginner | Scrape website and store in database | [view](https://github.com/Ajith-Kumar-Nelliparthi/WebScraperToMySQL.git) |
 |15|  Resume Maker and Web Scraper | Intermediate | Scrape website, Resume Analyzer | [view](https://github.com/Ajith-Kumar-Nelliparthi/Resume_maker-and-web_scrapper.git) |
+|16|  Essay Grading Agent | Business | Automated grading, multiple criteria | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/essay_grading_system_langgraph.ipynb) |
 > **Note:** This table will be continuously updated as new projects are added.
 
 ## Getting Started

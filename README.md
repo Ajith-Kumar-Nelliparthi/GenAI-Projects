@@ -27,6 +27,10 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 |14|  Web Scraper To MySQL | Beginner | Scrape website and store in database | [view](https://github.com/Ajith-Kumar-Nelliparthi/WebScraperToMySQL.git) |
 |15|  Resume Maker and Web Scraper | Intermediate | Scrape website, Resume Analyzer | [view](https://github.com/Ajith-Kumar-Nelliparthi/Resume_maker-and-web_scrapper.git) |
 |16|  Essay Grading Agent | Business | Automated grading, multiple criteria | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/essay_grading_system_langgraph.ipynb) |
+|17|  Car Price Prediction | Machine Learning | Predicting Car Prices given CSV | [view](https://github.com/Ajith-Kumar-Nelliparthi/Machine-Learning-Projects/tree/main/Car_Price_Prediction) |
+|18|  Cardio Vascular Disease Prediction | Machine Learning | The task is to predict the presence or absence of cardiovascular disease (CVD) using the patient examination results.g  | [view](https://github.com/Ajith-Kumar-Nelliparthi/Machine-Learning-Projects/tree/main/Cardio_Vascular_Disease_Prediction) |
+|19|  Cat - Dog Classification | Deep Learning | The goal is to predict images | [view](https://github.com/Ajith-Kumar-Nelliparthi/Machine-Learning-Projects/tree/main/Cat-Dog-Classification) |
+|20|  Fetal Health Classification | ML | The goal is to predict the fetal health | [view](https://github.com/Ajith-Kumar-Nelliparthi/Machine-Learning-Projects/tree/main/Fetal_Health_Classification) |
 > **Note:** This table will be continuously updated as new projects are added.
 
 ## Getting Started

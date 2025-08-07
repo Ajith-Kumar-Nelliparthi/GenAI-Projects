@@ -42,6 +42,7 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 |29|  Startup Health Scoring Model | Intermediate | This project implements a scoring model for 100 fictional startups based on key business indicators. | [view](https://github.com/Ajith-Kumar-Nelliparthi/scaledux_assignment.git) |
 |30| Real Time Object Detection Using YOLO | Intermediate | This project implements real-time object detection using the YOLO (You Only Look Once) algorithm. | [view](https://github.com/Ajith-Kumar-Nelliparthi/Real_Time_Object_Detection_Using_Yolo.git) |
 |31|  Travel Planning Agent | Business | Personalized itineraries | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_travel_planner_langgraph.ipynb) |
+|32|  GenAI Career Assistant | Business | Career guidance, learning paths | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/agent_hackathon_genai_career_assistant.ipynb) |
 > **Note:** This table will be continuously updated as new projects are added.
 
 ## Getting Started

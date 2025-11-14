@@ -44,6 +44,7 @@ Follow me on X: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=fo
 |31|  Travel Planning Agent | Business | Personalized itineraries | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/simple_travel_planner_langgraph.ipynb) |
 |32|  GenAI Career Assistant | Business | Career guidance, learning paths | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/agent_hackathon_genai_career_assistant.ipynb) |
 |33| Byte Pair Encoding (BPE) Tokenizer | Intermediate | Implemented BPE from scratch identical to GPT and BERT | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/tree/main/ai_agents/tokenizer) |
+|34| GPT From Scratch | Intermediate | Implemented GPT-2 from scratch | [view](https://github.com/Ajith-Kumar-Nelliparthi/GenAI-Projects/blob/main/ai_agents/GPT/gpt.py) |
 > **Note:** This table will be continuously updated as new projects are added.
 
 ## Getting Started
